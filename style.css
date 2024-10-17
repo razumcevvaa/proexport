@@ -262,7 +262,7 @@ html {
 
 .advantages {
   padding: 50px;
-  background-color: rgb(245 245 245);
+  background-color: rgb(241 242 242);
 }
 
 .adv-img {
@@ -276,7 +276,7 @@ html {
 .box {
   display: flex;
   justify-content: space-around;
-  padding-top: 60px;
+  padding: 50px;
 }
 
 .advantage-item {

@@ -276,7 +276,7 @@ html {
 .box {
   display: flex;
   justify-content: space-around;
-  padding-top: 60px;
+  padding: 50px;
 }
 
 .advantage-item {
